@@ -19,7 +19,7 @@
 * Bolzan, Nicolas ([BolzanNicolas](https://github.com/BolzanNicolas))
 * Grane, Martin ([martingrane1996](https://github.com/martingrane1996))
 * Arias, Ignacio ([NachoArias](https://github.com/NachoArias))
-* Completar ([xxxx](https://github.com/xxxx))
+* Manzano, Federico ([FedericoManzano](https://github.com/FedericoManzano))
 
 ## Sobre la tecnología
 * Java 1.8
