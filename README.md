@@ -17,7 +17,7 @@
 * Martel, Lucas ([lucasmartel56](https://github.com/lucasmartel56))
 * Gutierrez, Cristian ([cdgutierrez](https://github.com/cdgutierrez))
 * Bolzan, Nicolas ([BolzanNicolas](https://github.com/BolzanNicolas))
-* Grane, Martin ([martingrrane1996](https://github.com/martingrane1996))
+* Grane, Martin ([martingrane1996](https://github.com/martingrane1996))
 * Arias, Ignacio ([NachoArias](https://github.com/NachoArias))
 * Completar ([xxxx](https://github.com/xxxx))
 
