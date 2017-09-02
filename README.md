@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/XXX/jrpg-2017b-servidor.svg?branch=master)](https://travis-ci.org/XXX/jrpg-2017b-servidor)
+[![Build Status](https://travis-ci.org/WelcomeToTheJava/jrpg-2017b-servidor.svg?branch=master)](https://travis-ci.org/WelcomeToTheJava/jrpg-2017b-servidor)
 # World Of Middle Earth (WOME) - servidor
 
 ## Sobre las personas
@@ -12,13 +12,13 @@
 
 ### Integrantes del equipo
 
-* Completar ([xxxx](https://github.com/xxxx))
-* Completar ([xxxx](https://github.com/xxxx))
-* Completar ([xxxx](https://github.com/xxxx))
-* Completar ([xxxx](https://github.com/xxxx))
-* Completar ([xxxx](https://github.com/xxxx))
-* Completar ([xxxx](https://github.com/xxxx))
-* Completar ([xxxx](https://github.com/xxxx))
+* Blanco, Franco David ([davidblanco117](https://github.com/davidblanco117))
+* Fernandez, Nicolas ([fernandezniko](https://github.com/fernandezniko))
+* Martel, Lucas ([lucasmartel56](https://github.com/lucasmartel56))
+* Gutierrez, Cristian ([cdgutierrez](https://github.com/cdgutierrez))
+* Bolzan, Nicolas ([BolzanNicolas](https://github.com/BolzanNicolas))
+* Grane, Martin ([martingrrane1996](https://github.com/martingrrane1996))
+* Arias, Ignacio ([NachoArias](https://github.com/NachoArias))
 * Completar ([xxxx](https://github.com/xxxx))
 
 ## Sobre la tecnología
